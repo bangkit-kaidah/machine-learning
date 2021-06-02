@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+metric/
+jdihn_regulations_v1.1.csv
+jdihn_regulations.csv
+predicted_jdihn.csv
+bert_kaidah_model.h5
+dnn_kaidah_model.h5
+nnlm_kaidah_model.h5
