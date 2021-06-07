@@ -5,10 +5,8 @@ metric/
 # data
 jdihn_regulations.csv
 jdihn_regulations_v1.1.csv
-predicted_jdihn.csv
 
 # model
-bert_kaidah_model.h5
 dnn_kaidah_model.h5
 nnlm_kaidah_model.h5
 
